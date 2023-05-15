@@ -14,3 +14,6 @@ The app will require the user to create an account and login to set and access r
 
 # screenshots
 
+
+![screens](https://github.com/Marwasultan/LocationReminder_android/assets/39669970/d3d9bb4a-769e-4162-8a46-1be15c0b4488)
+
